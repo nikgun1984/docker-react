@@ -5,5 +5,6 @@ Technologies used:
 - Docker  
 - Travis CI  
 - AWS Elastic Beanstalk  
-- React.js
+- React.js  
+- Nginx
 
